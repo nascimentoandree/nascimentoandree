@@ -1,16 +1,14 @@
-### Hi there 👋
+## Hi! I'm André do Nascimento!
 
-<!--
-**nascimentoandree/nascimentoandree** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### 👨🏽‍🎓 Information technology management student.
 
-Here are some ideas to get you started:
+I started in the programming world recently and  feel that technology makes the world more accessible and full of possibilities.
+I am currently learning CSS, HTML and JS. In this moment I'm looking for a place in the world of tech, people who can help me on this journey and an opportunity to show my skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Come get to know me better. Connect with me below:
+
+<a href="mailto:nascimentoandredd@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://www.instagram.com/nascimentoandree/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/andré-do-nascimento/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+
+  
