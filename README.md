@@ -1,7 +1,8 @@
 ## Hi! I'm André do Nascimento!
 
-#### 👨🏽‍🎓 Information technology management student.
-#### 👨🏽‍💻 VS Code | Git | GitHub
+👨🏽‍🎓 Information technology management student <br>
+<strong>📚 Skills:</strong> HTML | CSS | SCRUM <br>
+<strong>👨🏽‍💻 Tools:</strong> VS Code | Git | GitHub
 
 
 I started in the programming world recently and  feel that technology makes the world more accessible and full of possibilities.
