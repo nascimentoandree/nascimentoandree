@@ -1,13 +1,14 @@
 ## Hi! I'm André do Nascimento!
 
 👨🏽‍🎓 Information technology management student <br>
-<strong>📚 Skills:</strong> HTML | CSS | SCRUM <br>
-<strong>👨🏽‍💻 Tools:</strong> VS Code | Git | GitHub
-
 
 I started in the programming world recently and  feel that technology makes the world more accessible and full of possibilities.
 I am currently learning CSS, HTML and JS. In this moment I'm looking for a place in the world of tech, people who can help me on this journey and an opportunity to show my skills.
 
+<strong>📚 Skills:</strong> HTML | CSS | SCRUM <br>
+<strong>👨🏽‍💻 Tools:</strong> VS Code | Git | GitHub
+
+##
 ### Come get to know me better. Connect with me below:
 
 <a href="mailto:nascimentoandredd@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
